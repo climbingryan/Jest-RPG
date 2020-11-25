@@ -30,5 +30,5 @@ test('gets inventory from player or returns false', () => {
 
     expect(player.getInventory()).toEqual(expect.any(Array));
     player.inventory = [];
-    expect(player.inventory()).toEqual(false);
+    expect(player.getInventory()).toEqual(false);
 });
