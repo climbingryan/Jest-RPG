@@ -1,7 +1,4 @@
 # Jest-RPG
 
-# Develop commit
-
-# Develop commit
-
-# Develop commit
+# Description
+Turnbased combat "RPG" using node.js, object oriented programing and test driven development. 
